@@ -1,1 +1,3 @@
-# Anki-Chess
+# Anki Chess
+
+Anki chess add-on
